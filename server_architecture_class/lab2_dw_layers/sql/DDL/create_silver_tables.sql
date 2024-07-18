@@ -1,3 +1,4 @@
+-- Active: 1717783063600@@127.0.0.1@5432@dw_dev
 CREATE TABLE silver.aggr_data AS
 SELECT 
   id,
